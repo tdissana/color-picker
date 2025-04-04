@@ -11,8 +11,8 @@ body{
 }
 
 .color-picker-display{
-  width: 300px;
-  height: 300px;
+  width: 250px;
+  height: 250px;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -24,8 +24,8 @@ body{
 }
 
 .color-picker-container h1{
-  margin: 50px;
-  font-size: 3rem;
+  margin: 20px;
+  font-size: 2.5rem;
   color: hsl(0, 0%, 30%);
 }
 
